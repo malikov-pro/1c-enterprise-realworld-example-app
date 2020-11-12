@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Configuration.Realworld_example_app" id="d704fa63-b36b-4f8b-9e63-aded4337bea1" configVersion="561081a1318c57482cfaf6ca5091efd93ed8a785"/>
+		<Metadata name="HTTPService.oap_demo_СервисПоСпецификации" id="60fa2ce3-4dde-4716-92f9-83adb8bd6f33" configVersion="a7b72aa72914a570502c4f958a3cf03f7fae6893">
+			<Metadata name="HTTPService.oap_demo_СервисПоСпецификации.URLTemplate.Ресурс" id="077e25ca-ab7f-486f-8eef-9410216ce4ea"/>
+			<Metadata name="HTTPService.oap_demo_СервисПоСпецификации.URLTemplate.Ресурс.Method.Запрос" id="c5dab8b2-c2af-4d57-9bc0-42f728b1be02"/>
+		</Metadata>
+		<Metadata name="HTTPService.oap_demo_СервисПоСпецификации.Module" id="60fa2ce3-4dde-4716-92f9-83adb8bd6f33.0" configVersion="d228282d12998fb62e16888fd6f36df810c6f76f"/>
+		<Metadata name="Language.Русский" id="adb8c5e7-b6f4-4207-b46b-bbbac34dc418" configVersion="9d8bd903fb756d263312baba5e64210ac8e0055f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
